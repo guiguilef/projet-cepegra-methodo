@@ -1,0 +1,5 @@
+passwd.txt
+/dist
+.cache
+node_modules
+.vscode
